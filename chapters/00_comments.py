@@ -2,7 +2,7 @@
 #
 # This file is actually a valid Python program--go ahead and try it out in your terminal:
 #
-#     $ python README.py
+#     $ python 00_comments.py
 #
 # Uhhhhh wait, why didn't it do anything?
 
