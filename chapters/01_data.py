@@ -96,8 +96,8 @@ print('Jeremy Lucas')
 
 print('1234 Place St, Apt. #3')
 
-# This is all fine dandy, but what if my data has a single quote in it? For example, if you wanted
-# to say "I am 6'0" tall".
+# This is all fine and dandy, but what if my data has a single quote in it? For example, if you
+# wanted to say "I am 6'0" tall".
 #
 # Well, in order to use that single quote in the middle of the string, we need to "escape" it by
 # putting a `\` just before the single quote:
@@ -137,7 +137,7 @@ print(False)
 #
 # The last kind of data we'll introduce here is a way to represent non-whole numbers:
 
-print(3.14159)
+print(3.14159)  # PI tutor!
 
 # These non-whole numbers, called "floats" in Python, allow us to represent decimals with variable
 # precision. Using these floats, we can do all the usual mathematical operations:

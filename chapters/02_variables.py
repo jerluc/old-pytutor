@@ -107,7 +107,7 @@ print(num)
 #
 # Additionally, RAM is normally *temporary* data storage. This means that when your program stops,
 # or when your computer is turned off, the RAM is reset and the information is no longer available.
-# We'll discuss in a later chapeter how to store data that remains even if your program stops or the
+# We'll discuss in a later chapter how to store data that remains even if your program stops or the
 # computer is turned off.
 
 # Well, that's about all about storing data in variables in Python!

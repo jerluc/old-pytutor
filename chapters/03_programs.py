@@ -28,7 +28,7 @@ tax_percentage = 0.0875
 tax_amount = subtotal * tax_percentage
 
 # Note that we use a variable to save the tax percentage. This may not be used more than once in the
-# first version of this program, but it because we have chosen to save it into a variable, we could
+# first version of this program, but because we have chosen to save it into a variable, we could
 # easily write a new version that makes use of it more than once (e.g. a program that can calculate
 # more than one bill).
 

@@ -34,6 +34,7 @@ This
 # commenting on larger blocks of code such as functions, classes, and modules. For the rest of these
 # tutorials, we will use these standard guidelines for practice.
 
+# TODO: Find a better, more interactive way to run through programs
 # Furthermore, to try out any of these tutorial files, run them in your terminal like so:
 #
 #     $ python <TUTORIAL_FILE>
